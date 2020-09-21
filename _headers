@@ -53,7 +53,7 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-emma-core-src-templates-project-query-tsx-e5128f2b92b9a8f3d680.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/kazocoupon/page-data.json>; rel=preload; as=fetch; crossorigin
-/leko-arts-your-theme-creator
+/9chart
   Link: </webpack-runtime-a0bdf92242a81d43f97b.js>; rel=preload; as=script
   Link: </framework-63ec46a3540d83159f28.js>; rel=preload; as=script
   Link: </app-3b3004b589c68c281384.js>; rel=preload; as=script
@@ -61,34 +61,7 @@
   Link: </48e126d0585132af7dbdb2999fb30ee48d466ff7-8d436ced79f51450ba1d.js>; rel=preload; as=script
   Link: </component---node-modules-lekoarts-gatsby-theme-emma-core-src-templates-project-query-tsx-e5128f2b92b9a8f3d680.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/leko-arts-your-theme-creator/page-data.json>; rel=preload; as=fetch; crossorigin
-/tomb-raider
-  Link: </webpack-runtime-a0bdf92242a81d43f97b.js>; rel=preload; as=script
-  Link: </framework-63ec46a3540d83159f28.js>; rel=preload; as=script
-  Link: </app-3b3004b589c68c281384.js>; rel=preload; as=script
-  Link: </fce496b99bfedabe56ac4e10485fe958d5fc014e-1039372990dd841b7f61.js>; rel=preload; as=script
-  Link: </48e126d0585132af7dbdb2999fb30ee48d466ff7-8d436ced79f51450ba1d.js>; rel=preload; as=script
-  Link: </component---node-modules-lekoarts-gatsby-theme-emma-core-src-templates-project-query-tsx-e5128f2b92b9a8f3d680.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/tomb-raider/page-data.json>; rel=preload; as=fetch; crossorigin
-/hermione-granger
-  Link: </webpack-runtime-a0bdf92242a81d43f97b.js>; rel=preload; as=script
-  Link: </framework-63ec46a3540d83159f28.js>; rel=preload; as=script
-  Link: </app-3b3004b589c68c281384.js>; rel=preload; as=script
-  Link: </fce496b99bfedabe56ac4e10485fe958d5fc014e-1039372990dd841b7f61.js>; rel=preload; as=script
-  Link: </48e126d0585132af7dbdb2999fb30ee48d466ff7-8d436ced79f51450ba1d.js>; rel=preload; as=script
-  Link: </component---node-modules-lekoarts-gatsby-theme-emma-core-src-templates-project-query-tsx-e5128f2b92b9a8f3d680.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/hermione-granger/page-data.json>; rel=preload; as=fetch; crossorigin
-/proprius
-  Link: </webpack-runtime-a0bdf92242a81d43f97b.js>; rel=preload; as=script
-  Link: </framework-63ec46a3540d83159f28.js>; rel=preload; as=script
-  Link: </app-3b3004b589c68c281384.js>; rel=preload; as=script
-  Link: </fce496b99bfedabe56ac4e10485fe958d5fc014e-1039372990dd841b7f61.js>; rel=preload; as=script
-  Link: </48e126d0585132af7dbdb2999fb30ee48d466ff7-8d436ced79f51450ba1d.js>; rel=preload; as=script
-  Link: </component---node-modules-lekoarts-gatsby-theme-emma-core-src-templates-project-query-tsx-e5128f2b92b9a8f3d680.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/proprius/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/9chart/page-data.json>; rel=preload; as=fetch; crossorigin
 /about
   Link: </webpack-runtime-a0bdf92242a81d43f97b.js>; rel=preload; as=script
   Link: </framework-63ec46a3540d83159f28.js>; rel=preload; as=script
